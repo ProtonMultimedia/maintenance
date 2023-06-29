@@ -1,0 +1,24 @@
+{
+  "name": "proton-maintenance",
+  "private": true,
+  "scripts": {
+    "start": "nuxt dev",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "deploy": "nuxt generate"
+  },
+  "engines": {
+    "node": "v16.19.0",
+    "pnpm": "8.6.5"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/node": "^18",
+    "nuxt": "^3.6.1",
+    "vite-svg-loader": "^4.0.0"
+  }
+}
