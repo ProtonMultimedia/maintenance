@@ -6,7 +6,7 @@
     <h1
       class="text-white text-center text-[12px] sm:text-[50px] font-bold sm:mb-[20px]"
     >
-      Strona w trakcie budowy
+      Strona w trakcie aktualizacji
     </h1>
     <hr
       class="border-[#01BAC3] border-t-[1px] sm:border-t-[4px] max-w-[25px] sm:max-w-[215px] w-full"
