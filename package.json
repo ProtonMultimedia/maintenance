@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "nuxt generate"
+    "deploy": "npm run generate"
   },
   "engines": {
     "node": "v16.19.0",
