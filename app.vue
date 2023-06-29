@@ -8,6 +8,10 @@
     >
       Strona w trakcie aktualizacji
     </h1>
+    <p class="text-white text-center text-[16px] mb-[12px]">
+      W międzyczasie zapraszamy do kontaktu tel.
+      <a href="tel:+48730538890">+48 730 538 890</a>
+    </p>
     <hr
       class="border-[#01BAC3] border-t-[1px] sm:border-t-[4px] max-w-[25px] sm:max-w-[215px] w-full"
     />
