@@ -11,8 +11,8 @@
     "deploy": "npm run generate"
   },
   "engines": {
-    "node": "v16.19.0",
-    "pnpm": "8.6.5"
+    "node": ">= v16.19.0",
+    "pnpm": ">= 8.6.5"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
